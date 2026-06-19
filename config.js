@@ -2,18 +2,18 @@
 
 module.exports = {
     // discord bot token
-    "token": "",
+    "token": "f29ebcb0a92de601b309f7f5d583e81edd510fd4e1461c317356de1a26cf2427",
     // spotify/game/twitch
-    "mode": "", 
+    "mode": "game", 
     // dnd/online/idle
-    "status": "",
+    "status": "online",
 
     "game": {
-        "applicationID": "",
+        "applicationID": "1517528309980856370",
 
-        "name": "", // title
-        "details": "", // first row below title
-        "state": "", // row below first row
+        "name": "aloo and inas sharing bed", // title
+        "details": "they just drinking, nothing happend", // first row below title
+        "state": "idk", // row below first row
 
         "largeImageKey": "", // Large Image
         "largeImageText": "", // the text when img surrounded (default is largeimage name in dev portal)
